@@ -120,7 +120,7 @@ def _spacer(h: float = 0.4) -> Spacer:
 
 def _status_color(status: str) -> colors.Color:
     s = status.upper()
-    if "RISK" in s:     return CORAL
+    if "RISK" in s or "NON" in s: return CORAL
     if "REVIEW" in s:   return AMBER
     return TEAL
 
@@ -160,8 +160,8 @@ def _hire_rate_chart(findings: list[dict], overall_rate: float) -> io.BytesIO:
     ax.set_facecolor(M_SAND)
 
     y_pos = np.arange(n)
-    affected_rates  = [f.get("affected_rate",  0) * 100 for f in findings]
-    comparison_rates = [f.get("comparison_rate", 0) * 100 for f in findings]
+    affected_rates  = [f.get("affected_hire_rate", f.get("affected_rate", 0)) * 100 for f in findings]
+    comparison_rates = [f.get("comparison_hire_rate", f.get("comparison_rate", 0)) * 100 for f in findings]
     labels = [
         f"{f.get('column','')}\n({f.get('affected_group','affected')})"
         for f in findings
@@ -208,14 +208,15 @@ def _hire_rate_chart(findings: list[dict], overall_rate: float) -> io.BytesIO:
 
 def _mitigation_chart(metrics_before: dict, metrics_after: dict) -> io.BytesIO:
     """Grouped bar chart: before vs after mitigation for each metric."""
-    metric_keys   = ["DPD", "EOD", "DIR"]
+    metric_keys_before = ["demographic_parity_difference", "equalized_odds_difference", "disparate_impact_ratio"]
+    metric_keys_after  = ["demographic_parity_difference_after", "equalized_odds_difference_after", "disparate_impact_ratio_after"]
     metric_labels = ["Demographic\nParity Diff", "Equalized\nOdds Diff", "Disparate\nImpact Ratio"]
     thresholds    = [0.10, 0.10, 0.80]
     # For DIR higher is better; for DPD/EOD lower is better
     higher_better = [False, False, True]
 
-    before_vals = [metrics_before.get(k, 0) for k in metric_keys]
-    after_vals  = [metrics_after.get(k, 0)  for k in metric_keys]
+    before_vals = [metrics_before.get(k, 0) or 0 for k in metric_keys_before]
+    after_vals  = [metrics_after.get(k, 0) or 0 for k in metric_keys_after]
 
     fig, axes = plt.subplots(1, 3, figsize=(6.5, 2.6))
     fig.patch.set_facecolor(M_SAND)
@@ -419,8 +420,8 @@ def generate_pdf(
     story.append(_spacer(0.3))
 
     for section in narrative:
-        title   = section.get("title", "")
-        content = section.get("content", "")
+        title   = section.get("heading", section.get("title", ""))
+        content = section.get("text", section.get("content", ""))
         if title:
             story.append(Paragraph(title, S["h2"]))
         if content:
@@ -441,13 +442,13 @@ def generate_pdf(
         sev_col = _severity_color(sev)
         col     = f.get("column", "—")
         ptype   = f.get("proxy_type", f.get("type", "—")).title()
-        mech    = f.get("mechanism", "—")
+        mech    = f.get("proxy_mechanism", f.get("mechanism", "—"))
         aff_g   = f.get("affected_group", "—")
         cmp_g   = f.get("comparison_group", "—")
-        aff_r   = f.get("affected_rate", 0)
-        cmp_r   = f.get("comparison_rate", 0)
+        aff_r   = f.get("affected_hire_rate", f.get("affected_rate", 0))
+        cmp_r   = f.get("comparison_hire_rate", f.get("comparison_rate", 0))
         ratio   = f.get("disparity_ratio", (cmp_r / aff_r) if aff_r else 0)
-        n       = f.get("sample_size", "—")
+        n       = f.get("sample_size_affected", f.get("sample_size", "—"))
         note    = f.get("legal_note", "")
 
         card_data = [
@@ -498,13 +499,20 @@ def generate_pdf(
     acc    = metrics.get("accuracy", None)
 
     # Metrics table
-    thresholds_map = {"DPD": "< 0.10", "EOD": "< 0.10", "DIR": "> 0.80"}
-    metric_full    = {"DPD": "Demographic Parity Difference",
-                      "EOD": "Equalized Odds Difference",
-                      "DIR": "Disparate Impact Ratio"}
+    thresholds_map = {
+        "demographic_parity_difference": "< 0.10",
+        "equalized_odds_difference": "< 0.10",
+        "disparate_impact_ratio": "> 0.80"
+    }
+    metric_full = {
+        "demographic_parity_difference": "Demographic Parity Difference",
+        "equalized_odds_difference": "Equalized Odds Difference",
+        "disparate_impact_ratio": "Disparate Impact Ratio"
+    }
 
     def _met_status(key, val):
-        if key == "DIR": return "PASS" if val >= 0.80 else "FAIL"
+        if val is None: val = 0
+        if key == "disparate_impact_ratio": return "PASS" if val >= 0.80 else "FAIL"
         return "PASS" if val <= 0.10 else "FAIL"
 
     met_header = [
@@ -516,8 +524,8 @@ def generate_pdf(
     ]
     met_rows = [met_header]
     for key, full in metric_full.items():
-        bv = before.get(key, 0)
-        av = after.get(key, 0)
+        bv = before.get(key, 0) or 0
+        av = after.get(f"{key}_after", 0) or 0
         st = _met_status(key, av)
         met_rows.append([
             Paragraph(full, S["body"]),
@@ -575,11 +583,12 @@ def generate_pdf(
         article = item.get("article", "")
         desc    = item.get("description", "")
         status  = item.get("status", "COMPLIANT")
+        status_label = status.replace("_", " ").upper()
         col     = _status_color(status)
 
         row_data = [[
             Paragraph(f"<b>{article}</b><br/><font size='8' color='#6B7280'>{desc}</font>", S["body"]),
-            _badge(status),
+            _badge(status_label),
         ]]
         row_table = Table(row_data, colWidths=[13.5*cm, 2.5*cm])
         row_table.setStyle(TableStyle([
