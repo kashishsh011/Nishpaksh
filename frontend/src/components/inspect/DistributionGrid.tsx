@@ -35,13 +35,13 @@ function DistChart({ dist, overall }: { dist: ColumnDistribution; overall: numbe
         <BarChart data={data} layout="vertical" margin={{ left: 0, right: 40, top: 4, bottom: 4 }}>
           <XAxis type="number" domain={[0, 1]} tickFormatter={v => `${(v * 100).toFixed(0)}%`} tick={{ fontSize: 10, fill: 'var(--color-text-muted)' }} />
           <YAxis type="category" dataKey="name" width={110} tick={{ fontSize: 12, fill: 'var(--color-text-primary)' }} />
-          <Tooltip formatter={(v: number) => `${(v * 100).toFixed(1)}%`} />
+          <Tooltip formatter={(v: any) => `${(Number(v) * 100).toFixed(1)}%`} />
           <ReferenceLine x={overall} stroke="var(--color-primary)" strokeDasharray="4 3" label={{ value: 'Overall', position: 'top', fontSize: 10, fill: 'var(--color-primary)' }} />
           <Bar dataKey="rate" radius={[0, 4, 4, 0]}>
             {data.map((entry, i) => (
               <Cell key={i} fill={rateColor(entry.rate, overall)} />
             ))}
-            <LabelList dataKey="count" position="right" formatter={(v: number) => `n=${v}`} style={{ fontSize: 10, fill: 'var(--color-text-muted)' }} />
+            <LabelList dataKey="count" position="right" formatter={(v: any) => `n=${v}`} style={{ fontSize: 10, fill: 'var(--color-text-muted)' }} />
           </Bar>
         </BarChart>
       </ResponsiveContainer>
