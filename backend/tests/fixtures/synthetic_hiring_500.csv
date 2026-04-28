@@ -1,0 +1,501 @@
+candidate_name,gender,college,pincode,years_experience,skill_score,outcome
+Ramesh Yadav,Female,Punjab University,500050,3,54,rejected
+Priya Mehta,Female,Delhi University,400065,14,70,hired
+Arjun Verma,Male,Jadavpur University,400100,4,67,rejected
+Grace Rodrigues,Male,Meerut Institute,110002,7,74,rejected
+Suresh Chauhan,Male,GL Bajaj Group,110031,1,83,rejected
+Pooja Pandey,Male,GL Bajaj Group,400051,13,55,rejected
+Robert Pinto,Male,Jadavpur University,560060,10,78,rejected
+Rekha Koli,Male,Sharda University,841301,7,62,rejected
+Ashok Prajapati,Male,Jadavpur University,841301,9,77,rejected
+Divya Malhotra,Male,Kerala University,110001,6,54,hired
+Farhan Malik,Male,Punjab University,600028,8,77,rejected
+Kavya Saxena,Male,IIM Ahmedabad,600001,11,75,hired
+Aditya Bhatt,Male,GL Bajaj Group,110045,3,69,hired
+Ritu Shukla,Female,Noida International University,743502,11,65,rejected
+Ravi Teli,Male,Pune University,400003,7,80,hired
+Laxmi Tamboli,Male,NIT Rourkela,400100,12,63,rejected
+Prakash Shimpi,Male,Meerut Institute,400050,12,86,hired
+Sunita Bose,Male,Delhi University,110001,14,65,rejected
+Manish Chatterjee,Male,GL Bajaj Group,743502,1,93,rejected
+Kamla Sutar,Male,Delhi University,700001,5,65,hired
+John DSouza,Male,GLA University,400051,5,64,rejected
+Sushila Dhotre,Male,Sharda University,560001,14,55,rejected
+Shahid Azmi,Male,GL Bajaj Group,700026,3,74,rejected
+Jagdeep Randhawa,Female,NIT Rourkela,110001,6,54,rejected
+Thomas Souza,Male,Sharda University,560025,0,65,hired
+Priya Shinde,Female,Pune University,344001,3,89,hired
+Tarun Rao,Female,Pune University,600002,4,77,hired
+Lakshmi Reddy,Male,IIT Madras,110001,2,77,hired
+Amol Gaikwad,Male,Punjab University,110093,0,54,rejected
+Gurjit Sohal,Female,Pune University,400051,7,76,hired
+Gurpreet Singh,Male,IIT Kharagpur,560034,13,71,rejected
+Lata Salunke,Male,Sharda University,600050,7,62,rejected
+David Mathew,Male,GL Bajaj Group,400065,12,63,rejected
+Mangal Patil,Female,Meerut Institute,560025,3,54,rejected
+Chitra Swaminathan,Male,IIT Kanpur,560001,3,58,rejected
+Suresh Natarajan,Male,Jadavpur University,110003,1,67,hired
+Radha Agarwal,Female,Rajasthan University,600028,13,70,rejected
+Vivek Bansal,Male,NIT Trichy,400003,3,88,hired
+Toufiq Osmani,Male,Jadavpur University,400101,1,75,rejected
+Amarjit Virk,Female,Amrapali Institute,841301,12,70,rejected
+Geeta Majhi,Male,Banaras Hindu University,226001,12,72,hired
+Ramesh Murmu,Male,Osmania University,110001,5,80,rejected
+Rekha Koli,Male,Pune University,344001,13,84,rejected
+Ashok Prajapati,Female,GL Bajaj Group,700026,10,61,rejected
+Usha Kumhar,Male,Invertis University,400051,10,91,rejected
+Himanshu Khandelwal,Female,Amrapali Institute,600050,9,77,rejected
+Rashid Suri,Male,Delhi University,400051,2,83,rejected
+Sanjay Kisku,Female,Sharda University,743502,7,45,rejected
+Archana Sethi,Male,NIT Warangal,600028,14,79,rejected
+Ravi Teli,Male,Pune University,560025,5,68,rejected
+Mohd Ansari,Male,Mumbai University,700026,15,72,rejected
+Balwinder Dhillon,Female,Invertis University,600050,1,97,hired
+Vandana Nhavi,Male,GLA University,400050,11,54,rejected
+Zara Siddiqui,Female,Subharti University,743502,1,42,rejected
+Stephen Philip,Female,NIT Surathkal,344001,2,79,hired
+Pooja Pandey,Female,NIT Surathkal,764001,3,65,hired
+Amit Tiwari,Male,IIM Ahmedabad,841301,15,41,rejected
+Satinderpal Sekhon,Male,Galgotias University,500050,13,69,rejected
+Anita Katkar,Male,Amrapali Institute,600002,13,59,rejected
+Gurjit Sohal,Female,Pune University,400001,9,75,rejected
+Suresh Srivastava,Female,NIT Calicut,110093,9,75,rejected
+Kavya Saxena,Female,GL Bajaj Group,110045,9,82,rejected
+Aditya Bhatt,Male,Kerala University,110045,2,70,hired
+Saira Rizvi,Male,Mumbai University,500015,6,59,rejected
+Waseem Baig,Male,IIT Madras,110045,2,58,rejected
+Pratap Chavan,Male,Galgotias University,400065,12,82,rejected
+Asif Hussain,Male,Jadavpur University,764001,2,69,rejected
+Afreen Ali,Female,Invertis University,400050,1,77,rejected
+Tariq Ahmad,Female,Punjab University,400051,1,65,rejected
+Dilnoza Mohammed,Female,NIT Calicut,600028,1,40,rejected
+Ramesh Yadav,Male,Pune University,841302,12,71,rejected
+Sunita Paswan,Male,NIT Warangal,110002,13,89,rejected
+Satinderpal Sekhon,Male,NIT Surathkal,110045,5,71,hired
+Anjali Roy,Male,BITS Pilani,344001,0,51,rejected
+Suresh Chauhan,Female,Delhi University,400001,13,72,rejected
+Kavita Tomar,Female,IIM Ahmedabad,700026,8,77,hired
+Dinesh Kunbi,Male,Noida International University,743502,4,57,rejected
+Poonam Hansda,Male,NIT Surathkal,500015,14,70,hired
+Kiran Naidu,Male,IIT Kharagpur,500015,6,52,hired
+Usha Kumhar,Female,Noida International University,764001,9,84,rejected
+Mohan Lohar,Male,Meerut Institute,764001,1,93,rejected
+Sita Sonar,Female,Sharda University,400101,4,91,rejected
+Uma Balakrishnan,Female,IIT Kanpur,700026,14,72,hired
+Pushpa Kahar,Female,NIT Rourkela,560025,12,76,hired
+Shaukat Kazmi,Female,IIT Madras,400101,12,75,rejected
+Angela Gomes,Male,IIT Kharagpur,400002,9,64,hired
+Prakash Shimpi,Female,IIM Ahmedabad,600050,9,57,hired
+Christina Cardozo,Female,Kerala University,110045,6,66,hired
+Gita Goel,Male,Punjab University,841302,8,72,hired
+Kamla Sutar,Female,Invertis University,764001,9,71,rejected
+Nidhi Singhal,Female,Delhi University,400001,8,59,hired
+Shaheen Mewati,Female,Amrapali Institute,743502,8,65,rejected
+Bilal Memon,Male,Noida International University,743502,3,73,rejected
+Jasmin Vohra,Female,NIT Surathkal,400100,4,75,rejected
+Pervez Agha,Female,Banaras Hindu University,344001,4,63,rejected
+Priya Shinde,Male,NIT Calicut,560060,15,73,hired
+Balwinder Dhillon,Male,NIT Trichy,400001,9,59,hired
+Nikhil Chopra,Male,BITS Pilani,700026,0,58,hired
+Shakeel Purewal,Male,Mumbai University,400001,6,69,rejected
+Asma Quadri,Male,Jadavpur University,743502,13,68,rejected
+Bhola Regar,Male,Noida International University,400065,3,56,rejected
+Priya Mehta,Male,IIM Bangalore,400001,14,71,hired
+Arjun Verma,Male,Punjab University,400065,3,47,rejected
+Mangal Patil,Female,NIT Surathkal,344001,13,70,rejected
+Pravin Deshmukh,Female,Amrapali Institute,560060,2,77,rejected
+Sana Pathan,Male,Osmania University,600002,0,48,rejected
+Sunita Patel,Male,Noida International University,700026,1,86,hired
+Mahesh Kurmi,Male,NIT Rourkela,400051,15,69,rejected
+Geeta Lodhi,Male,NIT Surathkal,500050,6,57,hired
+Suresh Chauhan,Male,Rajasthan University,344001,13,68,rejected
+Paul Noronha,Female,Kerala University,560034,8,74,rejected
+Dinesh Kunbi,Female,Noida International University,500015,8,67,rejected
+Iqbal Hashmi,Female,NIT Calicut,226001,2,73,hired
+Ritu Shukla,Female,Meerut Institute,110093,3,44,rejected
+Waseem Baig,Male,Delhi University,764001,8,88,rejected
+Ruth Joseph,Male,IIMT College,400001,3,92,rejected
+Asif Hussain,Male,Invertis University,226001,10,100,rejected
+Ganesh Mali,Male,Noida International University,400050,3,70,rejected
+Manish Chatterjee,Female,Amrapali Institute,560060,11,52,rejected
+Dilnoza Mohammed,Male,NIT Trichy,110003,8,62,hired
+Savitri Bodra,Male,Galgotias University,600028,14,69,rejected
+Mary Fernandez,Male,Sharda University,841301,15,55,rejected
+Shahid Azmi,Male,Punjab University,400101,11,63,rejected
+Anjali Roy,Male,Meerut Institute,560025,11,75,rejected
+Kamla Sutar,Male,Amrapali Institute,110093,6,67,rejected
+Angela Gomes,Female,BITS Pilani,400050,7,62,rejected
+Robert Pinto,Female,Rajasthan University,110003,5,66,rejected
+Vijay Wanjari,Male,Anna University,110045,8,74,hired
+Kiran Naidu,Male,Amrapali Institute,743502,2,77,rejected
+Mohan Rajan,Male,BITS Pilani,400100,5,75,hired
+Kamla Parmar,Male,NIT Rourkela,344001,13,49,rejected
+Kaneez Hamdani,Female,IIM Ahmedabad,400050,12,96,rejected
+Uma Balakrishnan,Male,GLA University,110045,12,53,hired
+Damu Bhangi,Female,BITS Pilani,600001,10,72,hired
+Sunita Bhosale,Male,Osmania University,600028,1,75,hired
+Pratap Chavan,Female,GL Bajaj Group,700001,7,73,rejected
+Kamala Balai,Male,Sharda University,560060,11,85,rejected
+Nitin Mohite,Male,Osmania University,560060,6,69,rejected
+Toufiq Osmani,Male,NIT Calicut,400101,2,79,rejected
+Ashok Mittal,Male,Meerut Institute,764001,3,57,rejected
+Nidhi Singhal,Female,Anna University,841302,11,77,rejected
+Sunita Patel,Male,Anna University,400050,5,84,rejected
+Swati Jain,Female,Pune University,226001,5,79,hired
+Meera Kori,Female,Punjab University,700026,5,59,rejected
+Thomas Souza,Male,Amrapali Institute,764001,3,99,rejected
+Kavita Tomar,Male,Pune University,110003,9,68,rejected
+Robert Pinto,Male,NIT Warangal,400050,7,87,rejected
+Nikhil Chopra,Male,Pune University,560060,3,72,rejected
+Ranjit Toor,Female,Meerut Institute,400001,9,70,rejected
+Kunal Arora,Male,IIMT College,400002,6,62,rejected
+Mohan Lohar,Female,Amrapali Institute,500015,1,75,rejected
+Kalpana Hembram,Female,Delhi University,110002,10,56,rejected
+David Mathew,Female,Osmania University,560060,11,56,hired
+Priscilla Thomas,Male,NIT Calicut,110001,8,58,hired
+Amir Qureshi,Male,Amrapali Institute,400100,11,68,rejected
+Ruth Joseph,Female,Jadavpur University,400100,1,68,rejected
+Prakash Shimpi,Male,Rajasthan University,700026,4,45,rejected
+Sneha Gupta,Male,NIT Warangal,400002,2,82,rejected
+Rajesh Kapoor,Female,Sharda University,110045,2,87,hired
+Divya Malhotra,Male,Subharti University,400003,11,58,rejected
+Bhanu Gavli,Male,IIT Kanpur,400050,5,68,rejected
+Mary Fernandez,Male,Punjab University,700026,4,75,rejected
+Vijay Wanjari,Male,IIT Madras,400001,9,74,rejected
+Agnes Ekka,Male,Jadavpur University,743502,0,93,rejected
+Sanjay Jadhav,Male,NIT Rourkela,400002,1,75,rejected
+Rukhsar Naqvi,Female,Punjab University,110003,5,73,hired
+Robert Pinto,Male,Meerut Institute,400002,0,43,rejected
+Shalini More,Male,Sharda University,400051,15,59,rejected
+Kulwinder Grewal,Male,Banaras Hindu University,600001,12,55,rejected
+Dilnoza Mohammed,Male,Banaras Hindu University,560025,2,76,hired
+Paul Noronha,Female,Rajasthan University,110031,7,70,rejected
+Mehnaz Raza,Female,Punjab University,500015,9,60,rejected
+Shahid Azmi,Male,Delhi University,110002,4,81,hired
+Mangal Patil,Male,Sharda University,110003,13,77,rejected
+Gaurav Dasgupta,Male,Subharti University,600050,14,70,rejected
+Ramesh Yadav,Male,IIT Kharagpur,400101,13,45,hired
+Sunita Patel,Male,Jadavpur University,226001,13,72,rejected
+Bhimrao Valmiki,Male,Rajasthan University,400100,15,62,rejected
+Richard George,Female,Mumbai University,400101,8,66,rejected
+Rubina Fareedi,Female,Punjab University,400051,1,79,rejected
+Sajid Gilani,Male,Amrapali Institute,400050,8,84,rejected
+Kaneez Hamdani,Male,Punjab University,560001,7,73,hired
+Uma Balakrishnan,Female,Mumbai University,400101,3,74,hired
+Ashok Prajapati,Male,GL Bajaj Group,110031,6,75,rejected
+Jaswinder Sandhu,Male,Meerut Institute,400100,8,68,rejected
+Angela Gomes,Male,NIT Trichy,400001,13,75,rejected
+Sita Sonar,Male,Pune University,110002,2,80,hired
+Sukhwinder Brar,Female,NIT Rourkela,400101,11,51,rejected
+Jagdeep Randhawa,Female,NIT Rourkela,700026,6,73,rejected
+Dinesh Baski,Male,Rajasthan University,110031,5,71,hired
+Laxmi Tamboli,Male,Mumbai University,500015,1,75,rejected
+Abhijit Goyal,Male,Delhi University,500050,15,84,hired
+Swati Jain,Male,BITS Pilani,841301,4,69,rejected
+Raju Kumbhar,Male,GLA University,400101,5,59,rejected
+Gurjit Sohal,Female,Osmania University,700026,6,86,rejected
+Rehana Diwan,Male,NIT Trichy,500050,2,66,hired
+Rosetta Topno,Male,Delhi University,560025,4,55,rejected
+Nikhil Chopra,Female,Banaras Hindu University,560002,10,73,hired
+Richard George,Male,Pune University,400100,11,65,rejected
+Rachel Abraham,Female,Meerut Institute,110045,10,81,rejected
+Mohd Ansari,Female,Noida International University,743502,7,52,rejected
+Priya Mehta,Male,Punjab University,110093,14,68,rejected
+Arjun Verma,Female,NIT Warangal,110031,3,73,hired
+Zara Siddiqui,Male,Jadavpur University,110002,4,62,rejected
+Sunita Bhosale,Male,IIT Madras,743502,9,78,rejected
+Pooja Pandey,Male,Pune University,400003,7,75,rejected
+Raza Shaikh,Male,Osmania University,400051,11,46,rejected
+Satinderpal Sekhon,Female,Osmania University,400050,13,54,rejected
+Ranjit Toor,Male,Noida International University,110003,11,44,rejected
+Pravin Deshmukh,Female,Delhi University,344001,1,58,rejected
+Gurpreet Singh,Female,Sharda University,226001,2,68,rejected
+Nazish Farooqui,Male,Punjab University,400003,2,51,rejected
+Iqbal Hashmi,Male,Amrapali Institute,560002,11,79,rejected
+Ritu Shukla,Female,Sharda University,600050,3,62,rejected
+Waseem Baig,Female,Kerala University,110093,9,69,rejected
+Neha Tripathi,Male,Pune University,500050,0,84,rejected
+Rohit Khanna,Male,Osmania University,700026,3,58,rejected
+Rebecca Paul,Male,Sharda University,400101,15,75,rejected
+Manish Chatterjee,Male,Amrapali Institute,600001,6,52,rejected
+Dilnoza Mohammed,Male,GL Bajaj Group,743502,12,73,rejected
+Sanjay Banerjee,Male,GLA University,110002,6,73,hired
+Sita Sonar,Female,Subharti University,110002,14,83,hired
+Vinay Sen,Female,GLA University,110031,8,69,rejected
+Pushpa Kahar,Female,Pune University,110093,8,52,rejected
+Adil Usmani,Male,NIT Rourkela,400065,10,84,rejected
+Gurpreet Singh,Male,NIT Surathkal,560060,10,67,rejected
+Harpreet Kaur,Male,Subharti University,344001,6,68,rejected
+Lakshmi Reddy,Male,Osmania University,400101,4,61,rejected
+Michael Menezes,Female,Anna University,700026,3,74,hired
+Mohan Rajan,Male,Meerut Institute,560034,7,62,rejected
+Hema Krishnan,Female,Punjab University,700001,5,68,rejected
+Rosie DeSouza,Male,NIT Calicut,110045,12,98,hired
+Sukhwinder Brar,Male,Sharda University,841301,14,92,rejected
+Ravi Raghavan,Male,GLA University,400100,5,77,rejected
+Amarjit Virk,Male,Subharti University,110001,4,82,hired
+Harjinder Bajwa,Female,NIT Trichy,110003,13,63,hired
+James John,Male,GL Bajaj Group,743502,6,80,rejected
+Shalini More,Male,Punjab University,600001,3,76,rejected
+Richard George,Female,NIT Rourkela,700026,12,60,hired
+Sunita Bhosale,Female,Anna University,110031,9,97,hired
+Pratap Chavan,Male,GLA University,560002,12,68,rejected
+Shaheen Mewati,Female,GL Bajaj Group,600002,13,64,rejected
+Ramesh Nayak,Female,Pune University,500015,15,56,hired
+Sushila Chamar,Female,Rajasthan University,560060,7,84,rejected
+Rashi Poddar,Female,BITS Pilani,400002,10,66,hired
+Ramesh Yadav,Male,NIT Warangal,344001,2,69,rejected
+Rashid Suri,Female,Sharda University,110093,15,70,rejected
+Nikhil Chopra,Female,Rajasthan University,560002,4,64,rejected
+Meera Kori,Female,IIMT College,500050,5,77,rejected
+Asma Quadri,Male,Galgotias University,344001,14,78,rejected
+Geeta Majhi,Male,Mumbai University,560025,6,87,rejected
+Priya Mehta,Female,NIT Warangal,344001,7,45,rejected
+Arjun Verma,Male,Mumbai University,400101,14,78,rejected
+Ananya Iyer,Male,Galgotias University,110003,9,77,hired
+Stephen Philip,Male,Sharda University,400001,9,65,hired
+Mohan Lohar,Male,Invertis University,500015,15,48,rejected
+Raza Shaikh,Male,NIT Calicut,400050,7,71,rejected
+Ganesh Mali,Male,IIMT College,110093,11,82,rejected
+Rajesh Kapoor,Female,IIM Bangalore,400065,2,64,rejected
+Divya Malhotra,Male,GL Bajaj Group,110001,14,56,rejected
+Paramjit Sidhu,Female,Galgotias University,500015,12,40,rejected
+Nazish Farooqui,Female,Delhi University,560002,11,56,rejected
+Champa Minz,Male,Rajasthan University,560060,2,80,rejected
+Anthony Tirkey,Male,IIMT College,400101,3,89,rejected
+Deepak Mishra,Male,Punjab University,700001,1,43,hired
+Bhanu Gavli,Male,Kerala University,110002,7,70,hired
+Robert Pinto,Male,Osmania University,226001,12,66,rejected
+Sebastian Dungdung,Male,NIT Rourkela,400003,11,75,hired
+Tariq Ahmad,Male,Rajasthan University,110003,6,90,rejected
+Komal Mukherjee,Female,IIT Delhi,110001,7,72,hired
+Kamla Parmar,Male,Mumbai University,400050,12,60,rejected
+Harpreet Kaur,Female,IIT Madras,400065,12,74,hired
+Manpreet Gill,Male,IIMT College,400050,15,73,rejected
+Anjali Roy,Female,Rajasthan University,743502,5,54,rejected
+Gaurav Dasgupta,Male,IIM Ahmedabad,700001,12,62,rejected
+Bhola Regar,Male,GLA University,600002,8,53,rejected
+James John,Male,Osmania University,743502,3,77,rejected
+Lakshmi Reddy,Male,Sharda University,110003,10,73,hired
+Mangal Patil,Female,Kerala University,560060,0,75,rejected
+Mohan Rajan,Female,Rajasthan University,700001,3,74,rejected
+Ramesh Yadav,Male,GL Bajaj Group,841302,7,73,rejected
+Suresh Venkataraman,Male,Osmania University,400001,14,67,hired
+Uma Balakrishnan,Male,Jadavpur University,400001,4,69,hired
+Sobia Jafri,Female,NIT Trichy,400003,3,71,rejected
+Suresh Dom,Female,Banaras Hindu University,560060,1,77,rejected
+Kavita Tomar,Female,IIMT College,400050,14,48,rejected
+Radha Agarwal,Female,Sharda University,400100,11,86,hired
+Shazia Naeemi,Male,Pune University,560002,7,72,rejected
+Michael Menezes,Male,Jadavpur University,226001,12,70,hired
+Laxmi Besra,Female,NIT Trichy,560034,9,75,hired
+Paramjit Sidhu,Male,GL Bajaj Group,344001,2,72,rejected
+Sita Sonar,Female,Mumbai University,344001,1,74,hired
+Ganesh Mali,Male,Amrapali Institute,400050,4,78,rejected
+Priscilla Thomas,Male,NIT Trichy,400051,9,78,hired
+Rashi Poddar,Male,IIMT College,743502,4,77,hired
+Harjinder Bajwa,Male,GL Bajaj Group,110031,5,57,rejected
+James John,Male,Punjab University,560002,9,65,rejected
+Nikhil Chopra,Male,Amrapali Institute,600050,14,68,rejected
+Anthony Tirkey,Male,Jadavpur University,400050,8,72,rejected
+Kamla Sutar,Male,Anna University,600028,8,67,rejected
+Gurpreet Singh,Female,Mumbai University,344001,5,64,rejected
+Rosetta Topno,Male,BITS Pilani,400050,2,70,rejected
+Peter Pereira,Male,Banaras Hindu University,841301,9,56,rejected
+Ananya Iyer,Male,Subharti University,560025,6,57,rejected
+Vikram Joshi,Female,NIT Warangal,500050,1,66,rejected
+Priya Shinde,Male,Mumbai University,560002,0,51,hired
+Dnyaneshwar Pawar,Male,Noida International University,700026,3,82,rejected
+Hina Mirza,Male,Punjab University,841301,15,60,rejected
+Salman Syed,Male,Anna University,400101,13,64,rejected
+Shabana Chaudhary,Male,NIT Warangal,110002,15,54,rejected
+Bhola Regar,Female,Mumbai University,600050,4,75,rejected
+Nazish Farooqui,Female,Mumbai University,110001,2,83,hired
+Nitin Mohite,Male,IIM Bangalore,500050,1,66,rejected
+Ritu Shukla,Male,Delhi University,110031,12,93,rejected
+Deepak Mishra,Female,Invertis University,400050,1,75,hired
+Rukhsar Naqvi,Male,Jadavpur University,400065,7,85,rejected
+Asif Hussain,Female,NIT Calicut,226001,9,81,hired
+Sunita Bose,Male,IIT Delhi,110001,12,100,hired
+Manish Chatterjee,Female,Osmania University,700026,8,79,hired
+Komal Mukherjee,Female,BITS Pilani,560034,9,77,rejected
+John DSouza,Female,NIT Surathkal,560001,13,88,rejected
+Mehnaz Raza,Male,Osmania University,110031,1,83,hired
+Sukhwinder Brar,Female,BITS Pilani,110093,13,65,hired
+Ashok Prajapati,Male,Amrapali Institute,400100,13,79,rejected
+Usha Kumhar,Female,Amrapali Institute,841301,6,69,rejected
+Meera Chakraborty,Male,Punjab University,226001,9,64,rejected
+Sita Sonar,Male,Meerut Institute,600028,4,59,rejected
+Sanjay Kisku,Male,IIMT College,560060,1,88,rejected
+Michael Menezes,Female,Banaras Hindu University,560034,11,42,rejected
+Rubina Fareedi,Female,IIT Kanpur,110002,3,95,hired
+Hema Krishnan,Female,NIT Trichy,560060,13,67,hired
+Prakash Shimpi,Female,Noida International University,400065,0,68,rejected
+Vandana Nhavi,Female,NIT Calicut,226001,3,64,rejected
+Sobia Jafri,Female,IIT Delhi,841302,14,65,rejected
+Shaukat Kazmi,Male,NIT Trichy,400002,5,68,rejected
+Suresh Natarajan,Female,NIT Rourkela,700026,5,70,hired
+Balwinder Dhillon,Female,Invertis University,226001,8,72,hired
+Sukhwinder Brar,Male,Kerala University,400101,6,68,rejected
+Toufiq Osmani,Male,Jadavpur University,400065,14,79,rejected
+Sabira Fakir,Male,Osmania University,400051,10,43,rejected
+Nidhi Singhal,Female,Anna University,110003,13,81,hired
+Dnyaneshwar Pawar,Female,Kerala University,560002,1,72,hired
+Shalini More,Female,GL Bajaj Group,226001,2,67,rejected
+Ranjit Toor,Male,IIT Kharagpur,560060,1,78,hired
+Pervez Agha,Female,NIT Trichy,110045,13,71,hired
+Rehana Diwan,Female,IIMT College,110002,6,77,rejected
+Lata Salunke,Male,Pune University,600001,1,94,rejected
+Nadia Bahl,Male,Sharda University,743502,7,74,rejected
+Archana Sethi,Male,GLA University,500050,5,85,rejected
+Pravin Deshmukh,Male,Jadavpur University,110031,5,75,hired
+Raju Mahato,Male,GLA University,560034,2,58,rejected
+Priya Mehta,Male,GL Bajaj Group,344001,9,75,rejected
+Mahesh Kurmi,Female,Amrapali Institute,841302,1,75,rejected
+Meera Kori,Male,Invertis University,110045,9,82,rejected
+Amir Qureshi,Male,Rajasthan University,400065,9,67,rejected
+Geeta Majhi,Male,Jadavpur University,110031,6,47,rejected
+Ramesh Murmu,Male,Meerut Institute,700026,10,88,rejected
+Hina Mirza,Male,Subharti University,600001,10,69,rejected
+Salman Syed,Male,Galgotias University,344001,2,84,rejected
+Rachel Abraham,Female,Sharda University,400050,6,58,rejected
+John DSouza,Male,NIT Warangal,400051,12,57,hired
+Mary Fernandez,Male,NIT Rourkela,560025,15,73,hired
+Peter Pereira,Male,Kerala University,110002,4,64,hired
+Grace Rodrigues,Male,IIM Ahmedabad,400003,8,87,hired
+Deepak Mishra,Male,Anna University,600028,15,75,rejected
+Rukhsar Naqvi,Male,Amrapali Institute,600001,2,48,rejected
+Prakash Shimpi,Female,Sharda University,400100,6,86,rejected
+Champa Minz,Male,IIMT College,841301,1,56,rejected
+Tariq Ahmad,Female,Amrapali Institute,500050,4,68,rejected
+Kamla Sutar,Male,Mumbai University,560034,8,71,hired
+Sanjay Banerjee,Male,Galgotias University,110001,12,62,rejected
+Mehnaz Raza,Female,Meerut Institute,110003,11,54,rejected
+Vijay Wanjari,Male,Rajasthan University,841302,5,86,rejected
+Anjali Roy,Male,NIT Rourkela,560034,11,82,hired
+Stephen Philip,Male,GL Bajaj Group,400001,7,71,rejected
+Gurpreet Singh,Female,Rajasthan University,841301,0,61,rejected
+Vikram Mahar,Male,NIT Calicut,764001,2,79,rejected
+Shalini More,Male,Galgotias University,560025,4,100,rejected
+Irfan Chishti,Male,Pune University,400003,5,82,rejected
+Rubina Fareedi,Female,Rajasthan University,110031,13,87,rejected
+Pratap Chavan,Male,Mumbai University,700026,15,66,hired
+Kaneez Hamdani,Male,NIT Warangal,600028,8,59,rejected
+Ramesh Nayak,Male,IIT Kanpur,400003,14,65,hired
+Ravi Raghavan,Male,NIT Trichy,110001,8,79,hired
+Chitra Swaminathan,Female,Noida International University,400002,3,92,rejected
+Harjinder Bajwa,Male,BITS Pilani,600050,3,58,hired
+Kuldeep Cheema,Male,NIT Warangal,500015,10,83,rejected
+Mahesh Kurmi,Male,Meerut Institute,110003,8,79,hired
+Gita Goel,Male,Subharti University,400100,12,69,rejected
+Ashok Mittal,Female,Banaras Hindu University,600050,9,100,rejected
+Nidhi Singhal,Male,Pune University,500050,12,61,hired
+Abhijit Goyal,Male,GL Bajaj Group,400002,13,60,rejected
+Bilal Memon,Male,Amrapali Institute,344001,14,76,rejected
+Bikash Soren,Female,Mumbai University,110003,0,62,hired
+Usha Kumhar,Male,Banaras Hindu University,560025,13,53,rejected
+Mohan Lohar,Female,NIT Trichy,344001,8,55,rejected
+Sita Sonar,Male,Sharda University,560001,11,88,hired
+Nikhil Chopra,Female,Delhi University,400003,9,62,hired
+Rita Marndi,Male,Delhi University,743502,2,80,rejected
+Ravi Teli,Male,NIT Trichy,400100,1,65,hired
+Rahul Sharma,Male,Galgotias University,560060,7,89,rejected
+Kuldeep Cheema,Female,NIT Calicut,110045,3,66,hired
+Vandana Nhavi,Male,Punjab University,400002,13,54,rejected
+Ananya Iyer,Female,Jadavpur University,400002,15,61,hired
+Vikram Joshi,Female,Subharti University,600050,10,73,rejected
+Jerome Lakra,Male,IIMT College,764001,3,68,rejected
+Sushila Dhotre,Male,Jadavpur University,560025,3,89,rejected
+Hina Mirza,Male,BITS Pilani,560060,5,64,rejected
+Anita Katkar,Female,Osmania University,400100,1,93,rejected
+Shabana Chaudhary,Male,Jadavpur University,700026,4,78,rejected
+Priya Shinde,Female,GLA University,110001,7,82,rejected
+Balwinder Dhillon,Male,GL Bajaj Group,400101,7,74,rejected
+Iqbal Hashmi,Female,NIT Rourkela,700001,0,73,rejected
+Saira Rizvi,Male,Invertis University,400001,15,71,rejected
+Sunita Bhosale,Male,Punjab University,560001,12,72,hired
+Rukhsar Naqvi,Male,Kerala University,400050,3,58,rejected
+Lata Salunke,Female,Sharda University,600050,8,66,rejected
+Rebecca Paul,Male,IIT Delhi,400100,6,73,rejected
+Manish Chatterjee,Male,GL Bajaj Group,841302,1,85,hired
+Pravin Deshmukh,Male,Pune University,110002,2,56,hired
+Gurpreet Singh,Female,Pune University,344001,15,81,rejected
+Priyanka Ghosh,Female,BITS Pilani,600001,9,85,hired
+Manpreet Gill,Male,Noida International University,400100,11,69,rejected
+Farzana Kidwai,Female,Osmania University,400001,0,84,rejected
+Gaurav Dasgupta,Female,Anna University,400003,3,55,hired
+Kavita Tomar,Female,NIT Surathkal,560001,14,69,rejected
+Dinesh Kunbi,Male,Subharti University,110002,3,63,rejected
+Rekha Koli,Male,Amrapali Institute,600028,2,100,rejected
+Irfan Chishti,Female,Rajasthan University,764001,4,72,rejected
+Mohan Rajan,Male,Meerut Institute,400051,7,100,hired
+Hema Krishnan,Female,NIT Warangal,700001,3,62,hired
+Kuldeep Cheema,Female,Osmania University,600002,8,78,rejected
+Sanjay Kisku,Female,GLA University,560001,15,74,hired
+Sobia Jafri,Male,Punjab University,400001,1,58,rejected
+Shaukat Kazmi,Female,NIT Warangal,110093,5,68,rejected
+Laxmi Tamboli,Male,Invertis University,841301,13,83,rejected
+Radha Agarwal,Female,GL Bajaj Group,400001,1,63,rejected
+Shazia Naeemi,Male,BITS Pilani,560025,5,54,rejected
+Anthony Tirkey,Female,Noida International University,700026,13,73,rejected
+Sabira Fakir,Male,GL Bajaj Group,560060,0,52,rejected
+Nidhi Singhal,Male,Subharti University,500015,12,78,rejected
+Abhijit Goyal,Female,NIT Surathkal,110031,0,75,rejected
+Vijay Wanjari,Female,Invertis University,600050,14,53,rejected
+Yash Maheshwari,Female,NIT Surathkal,400065,5,65,hired
+Philemon Xalxo,Female,Pune University,600002,3,69,rejected
+Priya Shinde,Male,Sharda University,226001,0,46,rejected
+Vikram Mahar,Male,Rajasthan University,560034,9,63,rejected
+Shalini More,Female,Kerala University,600028,5,57,hired
+Shakeel Purewal,Male,GLA University,400100,0,69,hired
+Gurjit Sohal,Female,Mumbai University,400100,4,100,rejected
+Rahul Sharma,Male,Invertis University,841301,8,67,rejected
+Harpreet Kaur,Male,IIT Kanpur,500050,14,79,hired
+Nitin Mohite,Female,IIT Kanpur,226001,7,70,hired
+Zara Siddiqui,Male,Banaras Hindu University,600001,10,70,hired
+Amir Qureshi,Female,NIT Warangal,841301,11,90,rejected
+Ramesh Yadav,Female,Delhi University,110001,8,58,rejected
+James John,Male,Mumbai University,841301,7,85,rejected
+Hina Mirza,Male,IIT Bombay,110031,4,58,hired
+Richard George,Female,Delhi University,841302,4,51,rejected
+Divya Malhotra,Female,IIT Madras,841301,12,58,hired
+Kavita Tomar,Female,Punjab University,600001,6,69,rejected
+Nazish Farooqui,Male,Anna University,764001,7,57,rejected
+Rekha Koli,Male,Jadavpur University,500050,2,79,rejected
+Grace Rodrigues,Female,Banaras Hindu University,110093,11,65,rejected
+Laxmi Besra,Female,Banaras Hindu University,400100,8,71,rejected
+Mohan Lohar,Male,Kerala University,500050,6,84,rejected
+Sita Sonar,Female,Pune University,743502,9,76,rejected
+Manpreet Gill,Male,Meerut Institute,500050,12,54,rejected
+Pushpa Kahar,Male,Kerala University,600002,9,70,hired
+Komal Mukherjee,Male,Noida International University,560025,0,69,hired
+Laxmi Tamboli,Female,Meerut Institute,400065,12,58,rejected
+Rosie DeSouza,Female,BITS Pilani,600028,7,75,hired
+David Mathew,Female,Meerut Institute,560034,2,83,rejected
+Jagdeep Randhawa,Female,Rajasthan University,560025,11,70,hired
+Amarjit Virk,Female,IIMT College,226001,9,73,hired
+Tabassum Quadri,Male,Jadavpur University,560034,6,87,rejected
+Tarun Rao,Female,Meerut Institute,700026,9,77,rejected
+Sebastian Dungdung,Female,IIMT College,110002,12,57,rejected
+Kiran Naidu,Male,GLA University,500050,4,66,rejected
+Philemon Xalxo,Male,NIT Rourkela,764001,0,66,hired
+Hema Krishnan,Female,Noida International University,110031,0,88,rejected
+Suresh Venkataraman,Male,Jadavpur University,743502,9,65,rejected
+Shalini More,Male,Pune University,500050,14,62,rejected
+Amol Gaikwad,Male,Kerala University,110031,0,82,rejected
+Lata Mehtar,Female,Pune University,400100,10,78,rejected
+Gulnaz Lakhnavi,Male,NIT Trichy,764001,4,55,rejected
+Munawwar Moosavi,Male,NIT Surathkal,400051,10,62,rejected
+Christina Cardozo,Male,Subharti University,400003,6,94,hired
+Mangal Patil,Female,Jadavpur University,560001,0,63,hired
+Pravin Deshmukh,Male,Osmania University,400001,11,64,rejected
+Nidhi Singhal,Male,NIT Surathkal,560060,9,70,rejected
+Abhijit Goyal,Male,Kerala University,344001,6,60,hired
+Bilal Memon,Male,Amrapali Institute,400065,15,61,rejected
+Geeta Lodhi,Female,Kerala University,841302,13,69,rejected
+Stephen Philip,Female,Noida International University,764001,12,62,rejected
+Ruth Joseph,Male,Banaras Hindu University,764001,12,53,rejected
+Dinesh Kunbi,Female,Galgotias University,226001,10,65,rejected
+Rekha Koli,Female,GLA University,600028,3,77,rejected
+Archana Sethi,Male,Galgotias University,110093,12,64,rejected
+Laxmi Besra,Male,Noida International University,110045,5,71,rejected

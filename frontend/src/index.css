@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ── Design Tokens ─────────────────────────────────────────── */
+:root {
+  /* Canvas */
+  --color-canvas:       #F7F6F1;
+  --color-surface:      #FFFFFF;
+  --color-surface-2:    #F0EFE9;
+
+  /* Brand */
+  --color-primary:      #3730A3;
+  --color-primary-dark: #1E1B72;
+  --color-primary-light:#EEF2FF;
+
+  /* Severity — Danger */
+  --color-danger:        #DC2626;
+  --color-danger-bg:     #FEF2F2;
+  --color-danger-border: #FECACA;
+
+  /* Severity — Warning */
+  --color-warning:        #D97706;
+  --color-warning-bg:     #FFFBEB;
+  --color-warning-border: #FDE68A;
+
+  /* Severity — Safe */
+  --color-safe:        #0D9488;
+  --color-safe-bg:     #F0FDFA;
+  --color-safe-border: #99F6E4;
+
+  /* Text */
+  --color-text-primary: #111827;
+  --color-text-muted:   #6B7280;
+  --color-text-faint:   #9CA3AF;
+
+  /* Border */
+  --color-border:        #E5E3DB;
+  --color-border-strong: #C4C2BA;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* Typography */
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body:    'DM Sans', system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', 'Courier New', monospace;
+}
+
+/* ── Reset ─────────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: var(--color-text-primary);
+  background: var(--color-canvas);
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 1.2;
+}
+
+button {
+  font-family: var(--font-body);
+}
+
+input, select, textarea {
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 1px;
+}
+
+/* ── Accessibility — Skip to content link ─────────────────── */
+.skip-to-content {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: 9999;
+  padding: 12px 24px;
+  background: var(--color-primary);
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 0 0 8px 0;
+  text-decoration: none;
+}
+
+.skip-to-content:focus {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  outline: 3px solid var(--color-primary-dark);
+}
+
+/* ── Accessibility — Focus visible ─────────────────────────── */
+*:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(55, 48, 163, 0.15);
+}
+
+/* ── Accessibility — Reduced motion ────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Animations ─────────────────────────────────────────────── */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+/* ── Page transitions ───────────────────────────────────────── */
+main > * {
+  animation: slideUp 0.3s ease both;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--color-canvas); }
+::-webkit-scrollbar-thumb { background: var(--color-border-strong); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-text-faint); }
+
+/* ── Selection ──────────────────────────────────────────────── */
+::selection {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+}
+
+/* ── Button hover (global) ──────────────────────────────────── */
+button:hover:not(:disabled) {
+  filter: brightness(0.93);
+}
+
+/* ── Recharts tooltip ───────────────────────────────────────── */
+.recharts-tooltip-wrapper {
+  font-family: var(--font-body) !important;
+  font-size: 12px !important;
+}
+
+/* ── Responsive — Tablet ────────────────────────────────────── */
+@media (max-width: 768px) {
+  header > div {
+    padding: 0 16px !important;
+    gap: 12px !important;
+  }
+  
+  main {
+    padding: 24px 16px 60px !important;
+  }
+
+  h1 {
+    font-size: 24px !important;
+  }
+
+  h2 {
+    font-size: 18px !important;
+  }
+}
+
+/* ── Responsive — Mobile ────────────────────────────────────── */
+@media (max-width: 480px) {
+  header > div {
+    flex-wrap: wrap;
+    height: auto !important;
+    padding: 10px 12px !important;
+  }
+
+  main {
+    padding: 16px 12px 40px !important;
+  }
+
+  h1 {
+    font-size: 22px !important;
+  }
+
+  /* Stack the stepper labels vertically */
+  .stepper-labels {
+    font-size: 10px;
+  }
+  
+  /* Make tables scroll horizontally */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* ── Print styles ───────────────────────────────────────────── */
+@media print {
+  header, .skip-to-content, button {
+    display: none !important;
+  }
+
+  main {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+    font-size: 12pt;
+  }
+}

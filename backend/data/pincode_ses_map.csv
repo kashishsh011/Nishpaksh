@@ -1,0 +1,548 @@
+﻿pincode,ses_tier,state,district_type
+400001,tier_1,Maharashtra,metro
+400002,tier_1,Maharashtra,metro
+400003,tier_1,Maharashtra,metro
+400004,tier_1,Maharashtra,metro
+400005,tier_1,Maharashtra,metro
+400006,tier_1,Maharashtra,metro
+400007,tier_1,Maharashtra,metro
+400008,tier_1,Maharashtra,metro
+400009,tier_1,Maharashtra,metro
+400010,tier_1,Maharashtra,metro
+400011,tier_1,Maharashtra,metro
+400012,tier_1,Maharashtra,metro
+400013,tier_1,Maharashtra,metro
+400014,tier_1,Maharashtra,metro
+400015,tier_1,Maharashtra,metro
+400016,tier_1,Maharashtra,metro
+400017,tier_1,Maharashtra,metro
+400018,tier_1,Maharashtra,metro
+400019,tier_1,Maharashtra,metro
+400020,tier_1,Maharashtra,metro
+400050,tier_2,Maharashtra,suburban
+400051,tier_2,Maharashtra,suburban
+400052,tier_2,Maharashtra,suburban
+400053,tier_2,Maharashtra,suburban
+400054,tier_2,Maharashtra,suburban
+400055,tier_2,Maharashtra,suburban
+400056,tier_2,Maharashtra,suburban
+400057,tier_2,Maharashtra,suburban
+400058,tier_2,Maharashtra,suburban
+400059,tier_2,Maharashtra,suburban
+400060,tier_2,Maharashtra,suburban
+400061,tier_2,Maharashtra,suburban
+400062,tier_2,Maharashtra,suburban
+400063,tier_2,Maharashtra,suburban
+400064,tier_2,Maharashtra,suburban
+400065,tier_2,Maharashtra,suburban
+400066,tier_2,Maharashtra,suburban
+400067,tier_2,Maharashtra,suburban
+400068,tier_2,Maharashtra,suburban
+400069,tier_2,Maharashtra,suburban
+400070,tier_2,Maharashtra,suburban
+400080,tier_2,Maharashtra,suburban
+400081,tier_2,Maharashtra,suburban
+400082,tier_2,Maharashtra,suburban
+400083,tier_2,Maharashtra,suburban
+400084,tier_2,Maharashtra,suburban
+400085,tier_2,Maharashtra,suburban
+400086,tier_2,Maharashtra,suburban
+400087,tier_2,Maharashtra,suburban
+400088,tier_2,Maharashtra,suburban
+400089,tier_2,Maharashtra,suburban
+400090,tier_2,Maharashtra,suburban
+400091,tier_2,Maharashtra,suburban
+400092,tier_2,Maharashtra,suburban
+400093,tier_2,Maharashtra,suburban
+400094,tier_2,Maharashtra,suburban
+400095,tier_2,Maharashtra,suburban
+400096,tier_2,Maharashtra,suburban
+400097,tier_2,Maharashtra,suburban
+400098,tier_2,Maharashtra,suburban
+400099,tier_2,Maharashtra,suburban
+400100,tier_3,Maharashtra,rural
+400101,tier_3,Maharashtra,rural
+400102,tier_3,Maharashtra,rural
+400103,tier_3,Maharashtra,rural
+400104,tier_3,Maharashtra,rural
+400105,tier_3,Maharashtra,rural
+400106,tier_3,Maharashtra,rural
+400107,tier_3,Maharashtra,rural
+400108,tier_3,Maharashtra,rural
+400109,tier_3,Maharashtra,rural
+110001,tier_1,Delhi,metro
+110002,tier_1,Delhi,metro
+110003,tier_1,Delhi,metro
+110004,tier_1,Delhi,metro
+110005,tier_1,Delhi,metro
+110006,tier_1,Delhi,metro
+110007,tier_1,Delhi,metro
+110008,tier_1,Delhi,metro
+110009,tier_1,Delhi,metro
+110010,tier_1,Delhi,metro
+110011,tier_1,Delhi,metro
+110012,tier_1,Delhi,metro
+110013,tier_1,Delhi,metro
+110014,tier_1,Delhi,metro
+110015,tier_1,Delhi,metro
+110016,tier_1,Delhi,metro
+110017,tier_1,Delhi,metro
+110019,tier_1,Delhi,metro
+110021,tier_1,Delhi,metro
+110022,tier_1,Delhi,metro
+110023,tier_1,Delhi,metro
+110024,tier_1,Delhi,metro
+110025,tier_1,Delhi,metro
+110026,tier_1,Delhi,metro
+110027,tier_1,Delhi,metro
+110028,tier_1,Delhi,metro
+110029,tier_1,Delhi,metro
+110030,tier_1,Delhi,metro
+110031,tier_2,Delhi,suburban
+110032,tier_2,Delhi,suburban
+110033,tier_2,Delhi,suburban
+110034,tier_2,Delhi,suburban
+110035,tier_2,Delhi,suburban
+110036,tier_2,Delhi,suburban
+110037,tier_2,Delhi,suburban
+110038,tier_2,Delhi,suburban
+110039,tier_2,Delhi,suburban
+110040,tier_2,Delhi,suburban
+110041,tier_2,Delhi,suburban
+110042,tier_2,Delhi,suburban
+110043,tier_2,Delhi,suburban
+110044,tier_2,Delhi,suburban
+110045,tier_2,Delhi,suburban
+110046,tier_2,Delhi,suburban
+110047,tier_2,Delhi,suburban
+110048,tier_2,Delhi,suburban
+110049,tier_2,Delhi,suburban
+110051,tier_2,Delhi,suburban
+110052,tier_2,Delhi,suburban
+110053,tier_2,Delhi,suburban
+110054,tier_2,Delhi,suburban
+110055,tier_2,Delhi,suburban
+110056,tier_2,Delhi,suburban
+110057,tier_2,Delhi,suburban
+110058,tier_2,Delhi,suburban
+110059,tier_2,Delhi,suburban
+110060,tier_2,Delhi,suburban
+110061,tier_2,Delhi,suburban
+110062,tier_2,Delhi,suburban
+110063,tier_2,Delhi,suburban
+110064,tier_2,Delhi,suburban
+110065,tier_2,Delhi,suburban
+110066,tier_2,Delhi,suburban
+110067,tier_2,Delhi,suburban
+110068,tier_2,Delhi,suburban
+110069,tier_2,Delhi,suburban
+110070,tier_2,Delhi,suburban
+110071,tier_2,Delhi,suburban
+110072,tier_2,Delhi,suburban
+110073,tier_2,Delhi,suburban
+110074,tier_2,Delhi,suburban
+110075,tier_2,Delhi,suburban
+110076,tier_2,Delhi,suburban
+110077,tier_2,Delhi,suburban
+110078,tier_2,Delhi,suburban
+110079,tier_2,Delhi,suburban
+110080,tier_2,Delhi,suburban
+110081,tier_2,Delhi,suburban
+110082,tier_2,Delhi,suburban
+110083,tier_2,Delhi,suburban
+110084,tier_2,Delhi,suburban
+110085,tier_2,Delhi,suburban
+110086,tier_2,Delhi,suburban
+110087,tier_2,Delhi,suburban
+110088,tier_2,Delhi,suburban
+110089,tier_2,Delhi,suburban
+110090,tier_2,Delhi,suburban
+110091,tier_2,Delhi,suburban
+110092,tier_2,Delhi,suburban
+110093,tier_3,Delhi,rural
+110094,tier_3,Delhi,rural
+110095,tier_3,Delhi,rural
+110096,tier_3,Delhi,rural
+110097,tier_3,Delhi,rural
+560001,tier_1,Karnataka,metro
+560002,tier_1,Karnataka,metro
+560003,tier_1,Karnataka,metro
+560004,tier_1,Karnataka,metro
+560005,tier_1,Karnataka,metro
+560006,tier_1,Karnataka,metro
+560007,tier_1,Karnataka,metro
+560008,tier_1,Karnataka,metro
+560009,tier_1,Karnataka,metro
+560010,tier_1,Karnataka,metro
+560011,tier_1,Karnataka,metro
+560012,tier_1,Karnataka,metro
+560013,tier_1,Karnataka,metro
+560014,tier_1,Karnataka,metro
+560015,tier_1,Karnataka,metro
+560016,tier_1,Karnataka,metro
+560017,tier_1,Karnataka,metro
+560018,tier_1,Karnataka,metro
+560019,tier_1,Karnataka,metro
+560020,tier_1,Karnataka,metro
+560025,tier_2,Karnataka,suburban
+560026,tier_2,Karnataka,suburban
+560027,tier_2,Karnataka,suburban
+560028,tier_2,Karnataka,suburban
+560029,tier_2,Karnataka,suburban
+560030,tier_2,Karnataka,suburban
+560031,tier_2,Karnataka,suburban
+560032,tier_2,Karnataka,suburban
+560033,tier_2,Karnataka,suburban
+560034,tier_2,Karnataka,suburban
+560035,tier_2,Karnataka,suburban
+560036,tier_2,Karnataka,suburban
+560037,tier_2,Karnataka,suburban
+560038,tier_2,Karnataka,suburban
+560039,tier_2,Karnataka,suburban
+560040,tier_2,Karnataka,suburban
+560041,tier_2,Karnataka,suburban
+560042,tier_2,Karnataka,suburban
+560043,tier_2,Karnataka,suburban
+560044,tier_2,Karnataka,suburban
+560045,tier_2,Karnataka,suburban
+560046,tier_2,Karnataka,suburban
+560047,tier_2,Karnataka,suburban
+560048,tier_2,Karnataka,suburban
+560049,tier_2,Karnataka,suburban
+560050,tier_2,Karnataka,suburban
+560060,tier_3,Karnataka,rural
+560061,tier_3,Karnataka,rural
+560062,tier_3,Karnataka,rural
+560063,tier_3,Karnataka,rural
+560064,tier_3,Karnataka,rural
+560065,tier_3,Karnataka,rural
+560066,tier_3,Karnataka,rural
+560067,tier_3,Karnataka,rural
+560068,tier_3,Karnataka,rural
+560069,tier_3,Karnataka,rural
+600001,tier_1,Tamil Nadu,metro
+600002,tier_1,Tamil Nadu,metro
+600003,tier_1,Tamil Nadu,metro
+600004,tier_1,Tamil Nadu,metro
+600005,tier_1,Tamil Nadu,metro
+600006,tier_1,Tamil Nadu,metro
+600007,tier_1,Tamil Nadu,metro
+600008,tier_1,Tamil Nadu,metro
+600009,tier_1,Tamil Nadu,metro
+600010,tier_1,Tamil Nadu,metro
+600011,tier_1,Tamil Nadu,metro
+600012,tier_1,Tamil Nadu,metro
+600013,tier_1,Tamil Nadu,metro
+600014,tier_1,Tamil Nadu,metro
+600015,tier_1,Tamil Nadu,metro
+600016,tier_1,Tamil Nadu,metro
+600017,tier_1,Tamil Nadu,metro
+600018,tier_1,Tamil Nadu,metro
+600019,tier_1,Tamil Nadu,metro
+600020,tier_1,Tamil Nadu,metro
+600028,tier_2,Tamil Nadu,suburban
+600029,tier_2,Tamil Nadu,suburban
+600030,tier_2,Tamil Nadu,suburban
+600031,tier_2,Tamil Nadu,suburban
+600032,tier_2,Tamil Nadu,suburban
+600033,tier_2,Tamil Nadu,suburban
+600034,tier_2,Tamil Nadu,suburban
+600035,tier_2,Tamil Nadu,suburban
+600036,tier_2,Tamil Nadu,suburban
+600037,tier_2,Tamil Nadu,suburban
+600038,tier_2,Tamil Nadu,suburban
+600039,tier_2,Tamil Nadu,suburban
+600040,tier_2,Tamil Nadu,suburban
+600041,tier_2,Tamil Nadu,suburban
+600042,tier_2,Tamil Nadu,suburban
+600043,tier_2,Tamil Nadu,suburban
+600044,tier_2,Tamil Nadu,suburban
+600045,tier_2,Tamil Nadu,suburban
+600046,tier_2,Tamil Nadu,suburban
+600047,tier_2,Tamil Nadu,suburban
+600050,tier_3,Tamil Nadu,rural
+600051,tier_3,Tamil Nadu,rural
+600052,tier_3,Tamil Nadu,rural
+600053,tier_3,Tamil Nadu,rural
+600054,tier_3,Tamil Nadu,rural
+600055,tier_3,Tamil Nadu,rural
+600056,tier_3,Tamil Nadu,rural
+600057,tier_3,Tamil Nadu,rural
+600058,tier_3,Tamil Nadu,rural
+600059,tier_3,Tamil Nadu,rural
+700001,tier_1,West Bengal,metro
+700002,tier_1,West Bengal,metro
+700003,tier_1,West Bengal,metro
+700004,tier_1,West Bengal,metro
+700005,tier_1,West Bengal,metro
+700006,tier_1,West Bengal,metro
+700007,tier_1,West Bengal,metro
+700008,tier_1,West Bengal,metro
+700009,tier_1,West Bengal,metro
+700010,tier_1,West Bengal,metro
+700011,tier_1,West Bengal,metro
+700012,tier_1,West Bengal,metro
+700013,tier_1,West Bengal,metro
+700014,tier_1,West Bengal,metro
+700015,tier_1,West Bengal,metro
+700016,tier_1,West Bengal,metro
+700017,tier_1,West Bengal,metro
+700018,tier_1,West Bengal,metro
+700019,tier_1,West Bengal,metro
+700020,tier_1,West Bengal,metro
+700026,tier_2,West Bengal,suburban
+700027,tier_2,West Bengal,suburban
+700028,tier_2,West Bengal,suburban
+700029,tier_2,West Bengal,suburban
+700030,tier_2,West Bengal,suburban
+700031,tier_2,West Bengal,suburban
+700032,tier_2,West Bengal,suburban
+700033,tier_2,West Bengal,suburban
+700034,tier_2,West Bengal,suburban
+700035,tier_2,West Bengal,suburban
+700036,tier_2,West Bengal,suburban
+700037,tier_2,West Bengal,suburban
+700038,tier_2,West Bengal,suburban
+700039,tier_2,West Bengal,suburban
+700040,tier_2,West Bengal,suburban
+700041,tier_2,West Bengal,suburban
+700042,tier_2,West Bengal,suburban
+700043,tier_2,West Bengal,suburban
+700044,tier_2,West Bengal,suburban
+700045,tier_2,West Bengal,suburban
+743502,tier_3,West Bengal,rural
+743503,tier_3,West Bengal,rural
+743504,tier_3,West Bengal,rural
+743505,tier_3,West Bengal,rural
+743506,tier_3,West Bengal,rural
+743507,tier_3,West Bengal,rural
+743508,tier_3,West Bengal,rural
+743509,tier_3,West Bengal,rural
+743510,tier_3,West Bengal,rural
+743511,tier_3,West Bengal,rural
+500001,tier_1,Telangana,metro
+500002,tier_1,Telangana,metro
+500003,tier_1,Telangana,metro
+500004,tier_1,Telangana,metro
+500005,tier_1,Telangana,metro
+500006,tier_1,Telangana,metro
+500007,tier_1,Telangana,metro
+500008,tier_1,Telangana,metro
+500009,tier_1,Telangana,metro
+500010,tier_1,Telangana,metro
+500015,tier_2,Telangana,suburban
+500016,tier_2,Telangana,suburban
+500017,tier_2,Telangana,suburban
+500018,tier_2,Telangana,suburban
+500019,tier_2,Telangana,suburban
+500020,tier_2,Telangana,suburban
+500021,tier_2,Telangana,suburban
+500022,tier_2,Telangana,suburban
+500023,tier_2,Telangana,suburban
+500024,tier_2,Telangana,suburban
+500025,tier_2,Telangana,suburban
+500026,tier_2,Telangana,suburban
+500027,tier_2,Telangana,suburban
+500028,tier_2,Telangana,suburban
+500029,tier_2,Telangana,suburban
+500030,tier_2,Telangana,suburban
+500050,tier_3,Telangana,rural
+500051,tier_3,Telangana,rural
+500052,tier_3,Telangana,rural
+500053,tier_3,Telangana,rural
+500054,tier_3,Telangana,rural
+500055,tier_3,Telangana,rural
+500056,tier_3,Telangana,rural
+500057,tier_3,Telangana,rural
+500058,tier_3,Telangana,rural
+500059,tier_3,Telangana,rural
+226001,tier_1,Uttar Pradesh,metro
+226002,tier_1,Uttar Pradesh,metro
+226003,tier_1,Uttar Pradesh,metro
+226004,tier_1,Uttar Pradesh,metro
+226005,tier_1,Uttar Pradesh,metro
+226006,tier_1,Uttar Pradesh,metro
+226007,tier_1,Uttar Pradesh,metro
+226008,tier_1,Uttar Pradesh,metro
+226009,tier_1,Uttar Pradesh,metro
+226010,tier_1,Uttar Pradesh,metro
+208001,tier_2,Uttar Pradesh,urban
+208002,tier_2,Uttar Pradesh,urban
+208003,tier_2,Uttar Pradesh,urban
+208004,tier_2,Uttar Pradesh,urban
+208005,tier_2,Uttar Pradesh,urban
+208006,tier_2,Uttar Pradesh,urban
+208007,tier_2,Uttar Pradesh,urban
+208008,tier_2,Uttar Pradesh,urban
+282001,tier_2,Uttar Pradesh,urban
+282002,tier_2,Uttar Pradesh,urban
+282003,tier_2,Uttar Pradesh,urban
+282004,tier_2,Uttar Pradesh,urban
+201001,tier_2,Uttar Pradesh,urban
+201002,tier_2,Uttar Pradesh,urban
+201003,tier_2,Uttar Pradesh,urban
+201004,tier_2,Uttar Pradesh,urban
+201005,tier_2,Uttar Pradesh,urban
+201006,tier_2,Uttar Pradesh,urban
+201007,tier_2,Uttar Pradesh,urban
+201008,tier_2,Uttar Pradesh,urban
+800001,tier_2,Bihar,urban
+800002,tier_2,Bihar,urban
+800003,tier_2,Bihar,urban
+800004,tier_2,Bihar,urban
+800005,tier_2,Bihar,urban
+800006,tier_2,Bihar,urban
+800007,tier_2,Bihar,urban
+800008,tier_2,Bihar,urban
+800009,tier_2,Bihar,urban
+800010,tier_2,Bihar,urban
+841301,tier_3,Bihar,rural
+841302,tier_3,Bihar,rural
+841303,tier_3,Bihar,rural
+841304,tier_3,Bihar,rural
+841305,tier_3,Bihar,rural
+841306,tier_3,Bihar,rural
+841307,tier_3,Bihar,rural
+841308,tier_3,Bihar,rural
+841309,tier_3,Bihar,rural
+841310,tier_3,Bihar,rural
+842001,tier_3,Bihar,rural
+842002,tier_3,Bihar,rural
+842003,tier_3,Bihar,rural
+842004,tier_3,Bihar,rural
+842005,tier_3,Bihar,rural
+854101,tier_3,Bihar,rural
+854102,tier_3,Bihar,rural
+854103,tier_3,Bihar,rural
+854104,tier_3,Bihar,rural
+854105,tier_3,Bihar,rural
+302001,tier_1,Rajasthan,metro
+302002,tier_1,Rajasthan,metro
+302003,tier_1,Rajasthan,metro
+302004,tier_1,Rajasthan,metro
+302005,tier_1,Rajasthan,metro
+302006,tier_1,Rajasthan,metro
+302007,tier_1,Rajasthan,metro
+302008,tier_1,Rajasthan,metro
+302009,tier_1,Rajasthan,metro
+302010,tier_1,Rajasthan,metro
+313001,tier_2,Rajasthan,urban
+313002,tier_2,Rajasthan,urban
+313003,tier_2,Rajasthan,urban
+313004,tier_2,Rajasthan,urban
+313005,tier_2,Rajasthan,urban
+342001,tier_2,Rajasthan,urban
+342002,tier_2,Rajasthan,urban
+342003,tier_2,Rajasthan,urban
+342004,tier_2,Rajasthan,urban
+342005,tier_2,Rajasthan,urban
+344001,tier_3,Rajasthan,rural
+344002,tier_3,Rajasthan,rural
+344003,tier_3,Rajasthan,rural
+344004,tier_3,Rajasthan,rural
+344005,tier_3,Rajasthan,rural
+380001,tier_1,Gujarat,metro
+380002,tier_1,Gujarat,metro
+380003,tier_1,Gujarat,metro
+380004,tier_1,Gujarat,metro
+380005,tier_1,Gujarat,metro
+380006,tier_1,Gujarat,metro
+380007,tier_1,Gujarat,metro
+380008,tier_1,Gujarat,metro
+380009,tier_1,Gujarat,metro
+380010,tier_1,Gujarat,metro
+380015,tier_2,Gujarat,suburban
+380016,tier_2,Gujarat,suburban
+380017,tier_2,Gujarat,suburban
+380018,tier_2,Gujarat,suburban
+380019,tier_2,Gujarat,suburban
+380020,tier_2,Gujarat,suburban
+380021,tier_2,Gujarat,suburban
+380022,tier_2,Gujarat,suburban
+380023,tier_2,Gujarat,suburban
+380024,tier_2,Gujarat,suburban
+388001,tier_3,Gujarat,rural
+388002,tier_3,Gujarat,rural
+388003,tier_3,Gujarat,rural
+388004,tier_3,Gujarat,rural
+388005,tier_3,Gujarat,rural
+160001,tier_1,Punjab,metro
+160002,tier_1,Punjab,metro
+160003,tier_1,Punjab,metro
+160004,tier_1,Punjab,metro
+160005,tier_1,Punjab,metro
+160006,tier_1,Punjab,metro
+160007,tier_1,Punjab,metro
+160008,tier_1,Punjab,metro
+160009,tier_1,Punjab,metro
+160010,tier_1,Punjab,metro
+141001,tier_2,Punjab,urban
+141002,tier_2,Punjab,urban
+141003,tier_2,Punjab,urban
+141004,tier_2,Punjab,urban
+141005,tier_2,Punjab,urban
+143001,tier_2,Punjab,urban
+143002,tier_2,Punjab,urban
+143003,tier_2,Punjab,urban
+143004,tier_2,Punjab,urban
+143005,tier_2,Punjab,urban
+152101,tier_3,Punjab,rural
+152102,tier_3,Punjab,rural
+152103,tier_3,Punjab,rural
+152104,tier_3,Punjab,rural
+152105,tier_3,Punjab,rural
+462001,tier_1,Madhya Pradesh,metro
+462002,tier_1,Madhya Pradesh,metro
+462003,tier_1,Madhya Pradesh,metro
+462004,tier_1,Madhya Pradesh,metro
+462005,tier_1,Madhya Pradesh,metro
+462006,tier_1,Madhya Pradesh,metro
+462007,tier_1,Madhya Pradesh,metro
+462008,tier_1,Madhya Pradesh,metro
+462009,tier_1,Madhya Pradesh,metro
+462010,tier_1,Madhya Pradesh,metro
+452001,tier_2,Madhya Pradesh,urban
+452002,tier_2,Madhya Pradesh,urban
+452003,tier_2,Madhya Pradesh,urban
+452004,tier_2,Madhya Pradesh,urban
+452005,tier_2,Madhya Pradesh,urban
+480001,tier_3,Madhya Pradesh,rural
+480002,tier_3,Madhya Pradesh,rural
+480003,tier_3,Madhya Pradesh,rural
+480004,tier_3,Madhya Pradesh,rural
+480005,tier_3,Madhya Pradesh,rural
+751001,tier_1,Odisha,metro
+751002,tier_1,Odisha,metro
+751003,tier_1,Odisha,metro
+751004,tier_1,Odisha,metro
+751005,tier_1,Odisha,metro
+753001,tier_2,Odisha,urban
+753002,tier_2,Odisha,urban
+753003,tier_2,Odisha,urban
+753004,tier_2,Odisha,urban
+753005,tier_2,Odisha,urban
+764001,tier_3,Odisha,rural
+764002,tier_3,Odisha,rural
+764003,tier_3,Odisha,rural
+764004,tier_3,Odisha,rural
+764005,tier_3,Odisha,rural
+682001,tier_1,Kerala,metro
+682002,tier_1,Kerala,metro
+682003,tier_1,Kerala,metro
+682004,tier_1,Kerala,metro
+682005,tier_1,Kerala,metro
+695001,tier_1,Kerala,metro
+695002,tier_1,Kerala,metro
+695003,tier_1,Kerala,metro
+695004,tier_1,Kerala,metro
+695005,tier_1,Kerala,metro
+680001,tier_2,Kerala,urban
+680002,tier_2,Kerala,urban
+680003,tier_2,Kerala,urban
+680004,tier_2,Kerala,urban
+680005,tier_2,Kerala,urban
+689501,tier_3,Kerala,rural
+689502,tier_3,Kerala,rural
+689503,tier_3,Kerala,rural
+689504,tier_3,Kerala,rural
+689505,tier_3,Kerala,rural

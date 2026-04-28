@@ -1,0 +1,180 @@
+﻿college_name_normalized,tier
+iit delhi,iit_iim
+iit bombay,iit_iim
+iit madras,iit_iim
+iit kanpur,iit_iim
+iit kharagpur,iit_iim
+iit roorkee,iit_iim
+iit guwahati,iit_iim
+iit hyderabad,iit_iim
+iit bhubaneswar,iit_iim
+iit jodhpur,iit_iim
+iit mandi,iit_iim
+iit patna,iit_iim
+iit ropar,iit_iim
+iit gandhinagar,iit_iim
+iit indore,iit_iim
+iit tirupati,iit_iim
+iit palakkad,iit_iim
+iit dharwad,iit_iim
+iit bhilai,iit_iim
+iit jammu,iit_iim
+iim ahmedabad,iit_iim
+iim bangalore,iit_iim
+iim calcutta,iit_iim
+iim lucknow,iit_iim
+iim kozhikode,iit_iim
+iim indore,iit_iim
+iim shillong,iit_iim
+iim rohtak,iit_iim
+iim raipur,iit_iim
+iim ranchi,iit_iim
+iim kashipur,iit_iim
+iim trichy,iit_iim
+iim udaipur,iit_iim
+iim nagpur,iit_iim
+iim visakhapatnam,iit_iim
+iim sirmaur,iit_iim
+iim bodh gaya,iit_iim
+iim sambalpur,iit_iim
+iim jammu,iit_iim
+iim amritsar,iit_iim
+bits pilani,nit_bits
+bits goa,nit_bits
+bits hyderabad,nit_bits
+nit trichy,nit_bits
+nit surathkal,nit_bits
+nit warangal,nit_bits
+nit calicut,nit_bits
+nit rourkela,nit_bits
+nit allahabad,nit_bits
+nit jamshedpur,nit_bits
+nit nagpur,nit_bits
+nit durgapur,nit_bits
+nit silchar,nit_bits
+nit kurukshetra,nit_bits
+nit surat,nit_bits
+nit bhopal,nit_bits
+nit jaipur,nit_bits
+nit patna,nit_bits
+nit raipur,nit_bits
+nit goa,nit_bits
+nit manipur,nit_bits
+nit agartala,nit_bits
+nit meghalaya,nit_bits
+nit delhi,nit_bits
+nit puducherry,nit_bits
+nit sikkim,nit_bits
+nit mizoram,nit_bits
+nit arunachal pradesh,nit_bits
+nit nagaland,nit_bits
+nit uttarakhand,nit_bits
+delhi university,state_university
+mumbai university,state_university
+university of mumbai,state_university
+calcutta university,state_university
+university of calcutta,state_university
+anna university,state_university
+osmania university,state_university
+university of hyderabad,state_university
+punjab university,state_university
+panjab university,state_university
+rajasthan university,state_university
+university of rajasthan,state_university
+kerala university,state_university
+university of kerala,state_university
+mysore university,state_university
+university of mysore,state_university
+pune university,state_university
+savitribai phule pune university,state_university
+jadavpur university,state_university
+banaras hindu university,state_university
+aligarh muslim university,state_university
+hyderabad central university,state_university
+gujarat university,state_university
+nagpur university,state_university
+rtm nagpur university,state_university
+madras university,state_university
+university of madras,state_university
+andhra university,state_university
+sri venkateswara university,state_university
+vikram university,state_university
+dr bhimrao ambedkar university,state_university
+chaudhary charan singh university,state_university
+dr ram manohar lohia university,state_university
+mahatma gandhi university,state_university
+bharathiar university,state_university
+bharathidasan university,state_university
+madurai kamaraj university,state_university
+periyar university,state_university
+mother teresa womens university,state_university
+alagappa university,state_university
+thiruvalluvar university,state_university
+kamban college,state_university
+amity university,private_ranked
+manipal university,private_ranked
+symbiosis,private_ranked
+vit university,private_ranked
+srm university,private_ranked
+christ university,private_ranked
+loyola college,private_ranked
+st xaviers college,private_ranked
+st stephens college,private_ranked
+miranda house,private_ranked
+lady shri ram college,private_ranked
+hindu college,private_ranked
+hansraj college,private_ranked
+kirori mal college,private_ranked
+gargi college,private_ranked
+ramjas college,private_ranked
+presidency college,private_ranked
+st josephs college,private_ranked
+ferguson college,private_ranked
+sophia college,private_ranked
+lala lajpat rai college,private_ranked
+jai hind college,private_ranked
+ruia college,private_ranked
+xaviers college mumbai,private_ranked
+thapar university,private_ranked
+sastra university,private_ranked
+psg college,private_ranked
+karunya university,private_ranked
+vellore institute,private_ranked
+srmist,private_ranked
+manipal institute,private_ranked
+hkbk college,private_unranked
+amrapali institute,private_unranked
+sharda university,private_unranked
+galgotias university,private_unranked
+noida international university,private_unranked
+gl bajaj group of institutions,private_unranked
+gla university,private_unranked
+rkgit,private_unranked
+kiet group of institutions,private_unranked
+raj kumar goel institute,private_unranked
+meerut institute,private_unranked
+iimt college,private_unranked
+subharti university,private_unranked
+swami vivekanand institute,private_unranked
+rbs college,private_unranked
+invertis university,private_unranked
+teerthanker mahaveer university,private_unranked
+moradabad institute,private_unranked
+ims unison university,private_unranked
+graphic era university,private_unranked
+doon valley college,private_unranked
+arya college,private_unranked
+poornima college,private_unranked
+mody university,private_unranked
+sangam university,private_unranked
+pacific university,private_unranked
+global institute,private_unranked
+jaipur national university,private_unranked
+apogee institute,private_unranked
+jecrc university,private_unranked
+raffles university,private_unranked
+bhagwant university,private_unranked
+kalinga university,private_unranked
+shri rawatpura sarkar university,private_unranked
+aisect university,private_unranked
+av college,private_unranked
