@@ -19,15 +19,15 @@ class ReportRequest(BaseModel):
 
 @router.post("/report")
 async def generate_report(body: ReportRequest):
-    from report.pdf_builder import build_pdf
+    from report.pdf_builder import generate_pdf
     try:
-        pdf_bytes = build_pdf(
+        pdf_bytes = generate_pdf(
             company_name=body.company_name,
-            proxy_findings=body.proxy_findings,
-            bias_metrics=body.bias_metrics,
-            mitigation_metrics=body.mitigation_metrics,
-            narrative_paragraphs=body.narrative_paragraphs,
-            dpdp_checklist=body.dpdp_checklist,
+            findings=body.proxy_findings,
+            metrics={"before": body.bias_metrics, "after": body.mitigation_metrics},
+            narrative=body.narrative_paragraphs,
+            checklist=body.dpdp_checklist,
+            overall_hire_rate=0.0,
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"PDF generation failed: {str(e)}")
